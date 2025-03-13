@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/shakib-svg/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/shakib-svg/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
@@ -19,4 +20,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/shakib-svg/Leetcode/tree/master/0605-can-place-flowers) |
+## Math
+|  |
+| ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/shakib-svg/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
